@@ -1,2 +1,2 @@
 # testone
-this is first one for new repository
+This is the first one for new repository.
